@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin:0 auto;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  color: #1db954;
+}
+
+.headDiv {
+  background-color: #191414;
+  width: 10%;
+  margin-top: 5%;
+
+}
